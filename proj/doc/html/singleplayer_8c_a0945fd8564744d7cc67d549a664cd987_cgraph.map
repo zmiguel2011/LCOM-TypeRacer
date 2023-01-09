@@ -1,0 +1,5 @@
+<map id="level_init" name="level_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,76,57"/>
+<area shape="rect" id="node2" href="$group___level.html#gab24a2944464e216f90bf50b0d4f2298a" title="Reads and stores the whole contents of the file with filename into a char*." alt="" coords="131,5,202,32"/>
+<area shape="rect" id="node3" href="$group___level.html#ga3847828951769032fb54dc43819ea471" title="Reads and stores the level answers into a char**." alt="" coords="124,56,209,83"/>
+</map>

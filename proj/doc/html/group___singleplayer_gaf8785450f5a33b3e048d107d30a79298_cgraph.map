@@ -1,0 +1,52 @@
+<map id="singleplayer_main_loop" name="singleplayer_main_loop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,347,163,374"/>
+<area shape="rect" id="node2" href="$group___devices.html#gaf6adf911f070a770234d824bbd1bdfb5" title=" " alt="" coords="812,322,887,349"/>
+<area shape="rect" id="node12" href="$group___devices.html#ga45d72567b306ed056c44d89bf0f70b3f" title=" " alt="" coords="778,423,921,450"/>
+<area shape="rect" id="node13" href="$group___singleplayer.html#gaedc913c139bb562646d3459b0ca28997" title=" " alt="" coords="830,373,869,399"/>
+<area shape="rect" id="node20" href="$group___r_t_c.html#ga8a930fccaca4ef19699234f41024e82f" title=" " alt="" coords="1011,170,1111,197"/>
+<area shape="rect" id="node22" href="$group___singleplayer.html#ga3a6be03c0e10da84d2e58bec1f4b37e7" title=" " alt="" coords="399,131,491,158"/>
+<area shape="rect" id="node40" href="$group___singleplayer.html#ga63a297ee49afe36590a95523eba95f7f" title=" " alt="" coords="211,1082,321,1109"/>
+<area shape="rect" id="node45" href="$group___singleplayer.html#ga9a1321dd741df6d233bf497ab078e32b" title=" " alt="" coords="223,271,309,298"/>
+<area shape="rect" id="node46" href="$group___singleplayer.html#ga264cd1e50d608e3420d1095685082576" title=" " alt="" coords="216,677,316,703"/>
+<area shape="rect" id="node3" href="$group___k_b_d.html#gaea970a154161a35f6894898a092ed70a" title=" " alt="" coords="1229,322,1289,349"/>
+<area shape="rect" id="node6" href="$group___mouse.html#ga210374b50462acdedab00df64d5cea3c" title=" " alt="" coords="1219,373,1298,399"/>
+<area shape="rect" id="node7" href="$group___r_t_c.html#ga75dad42881d64cf07cf1bdc2979a7056" title=" " alt="" coords="1033,221,1088,247"/>
+<area shape="rect" id="node11" href="$group___timer.html#ga91a2072306c68353712a6b771287dc2c" title=" " alt="" coords="1000,271,1121,298"/>
+<area shape="rect" id="node4" href="$group___k_b_c.html#ga1b75b40ba0eb9cb851edf08d8875c030" title=" " alt="" coords="1372,322,1483,349"/>
+<area shape="rect" id="node5" href="$group___utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="1532,297,1623,323"/>
+<area shape="rect" id="node8" href="$group___r_t_c.html#ga80b2c193271b00db23362fefb35a9c5d" title=" " alt="" coords="1211,81,1306,107"/>
+<area shape="rect" id="node10" href="$group___r_t_c.html#gac703f5b446dcaa83b95c971fb8270475" title=" " alt="" coords="1393,207,1462,234"/>
+<area shape="rect" id="node9" href="$rtc_8c.html#a95485d3511d47493dd35047a4ca5f2ab" title=" " alt="" coords="1371,81,1484,107"/>
+<area shape="rect" id="node14" href="$group___video_card.html#ga953971a068c2acc7c5737a6e25d060c5" title=" " alt="" coords="1022,575,1099,602"/>
+<area shape="rect" id="node15" href="$group___video_card.html#gacf7c92fa57431d4b578227e7e409f005" title=" " alt="" coords="1021,474,1100,501"/>
+<area shape="rect" id="node16" href="$group___x_p_m.html#gaf336863930a8599a053f22f2c8ce5f62" title=" " alt="" coords="1027,525,1094,551"/>
+<area shape="rect" id="node17" href="$group___singleplayer.html#ga0945fd8564744d7cc67d549a664cd987" title=" " alt="" coords="1025,423,1096,450"/>
+<area shape="rect" id="node18" href="$group___level.html#gab24a2944464e216f90bf50b0d4f2298a" title="Reads and stores the whole contents of the file with filename into a char*." alt="" coords="1223,423,1294,450"/>
+<area shape="rect" id="node19" href="$group___level.html#ga3847828951769032fb54dc43819ea471" title="Reads and stores the level answers into a char**." alt="" coords="1216,474,1301,501"/>
+<area shape="rect" id="node21" href="$group___r_t_c.html#ga5c4278803250e9e0aaa78765f1b20e3b" title=" " alt="" coords="1223,131,1294,158"/>
+<area shape="rect" id="node23" href="$group___singleplayer.html#ga7bc1c4fd75a302ec4f7f543c866eaa3b" title=" " alt="" coords="579,119,713,146"/>
+<area shape="rect" id="node24" href="$group___endgame.html#ga60bad93f654efd870e31eee13f1bf71b" title=" " alt="" coords="572,474,720,501"/>
+<area shape="rect" id="node37" href="$keyboard_8c.html#acefee424980cc8cb8e056960959cf596" title=" " alt="" coords="598,170,694,197"/>
+<area shape="rect" id="node38" href="$group___leaderboard.html#gae3f2616448db57d08cd3d4195cf89412" title=" " alt="" coords="573,53,719,95"/>
+<area shape="rect" id="node25" href="$group___endgame.html#gaedc913c139bb562646d3459b0ca28997" title=" " alt="" coords="830,575,869,602"/>
+<area shape="rect" id="node33" href="$group___endgame.html#gabea052cfa641065b8e5a72172d3a309c" title=" " alt="" coords="803,474,895,501"/>
+<area shape="rect" id="node34" href="$group___endgame.html#ga63a297ee49afe36590a95523eba95f7f" title=" " alt="" coords="794,727,905,754"/>
+<area shape="rect" id="node26" href="$group___font.html#ga6f8f31b659d0766732d4e07e04372171" title=" " alt="" coords="999,829,1122,855"/>
+<area shape="rect" id="node29" href="$group___video_card.html#ga95330ee8ccd53b08a58db94b75665eed" title=" " alt="" coords="1003,677,1118,703"/>
+<area shape="rect" id="node31" href="$group___video_card.html#ga9fc149863e474440b1752999621fdca4" title=" " alt="" coords="1011,930,1111,957"/>
+<area shape="rect" id="node32" href="$group___video_card.html#ga4c375cd9bacab0f59e492a17add92884" title=" " alt="" coords="1021,626,1101,653"/>
+<area shape="rect" id="node27" href="$font_8c.html#a47baeefabe52d95cce27be0722af7bc7" title=" " alt="" coords="1209,905,1309,931"/>
+<area shape="rect" id="node28" href="$group___video_card.html#ga474e4e4511a90a5d6af99447768aea2f" title=" " alt="" coords="1195,993,1323,1019"/>
+<area shape="rect" id="node30" href="$video__gr_8c.html#ab225410ea3bfb5d41bbe92df09a91d3d" title=" " alt="" coords="1203,677,1314,703"/>
+<area shape="rect" id="node35" href="$group___mouse.html#ga97bc31f297f21ed256541e1faeaa94c7" title=" " alt="" coords="995,879,1127,906"/>
+<area shape="rect" id="node36" href="$group___video_card.html#ga773c56ef80a7ee25a02ca7fc62d5778b" title=" " alt="" coords="975,753,1147,779"/>
+<area shape="rect" id="node39" href="$group___leaderboard.html#gaa683d2a91c8b5bf7414b8052210ad860" title=" " alt="" coords="772,61,927,87"/>
+<area shape="rect" id="node41" href="$group___drag_drop.html#ga787eb80e4dc435f137fa193607202668" title=" " alt="" coords="394,1183,495,1210"/>
+<area shape="rect" id="node42" href="$group___drag_drop.html#gafe03a1f508146d6a1f8c4196efeeee26" title=" " alt="" coords="398,1082,491,1109"/>
+<area shape="rect" id="node44" href="$group___drag_drop.html#ga0c01d4043f1a567b6a4d8ebff4e7d314" title=" " alt="" coords="401,1133,488,1159"/>
+<area shape="rect" id="node43" href="$group___drag_drop.html#ga9ecb2d4e015fd256ee52b43e84d9bd04" title=" " alt="" coords="568,1082,724,1109"/>
+<area shape="rect" id="node47" href="$group___drag_drop.html#ga85013bc68197fcd0546bea7133d585e0" title=" " alt="" coords="796,879,903,906"/>
+<area shape="rect" id="node48" href="$group___singleplayer.html#gadfd9bfb6417b2190771c4435675f6b47" title=" " alt="" coords="369,474,520,501"/>
+<area shape="rect" id="node49" href="$group___font.html#ga346fc118e0eb5355b9f5f999d0bad7b0" title=" " alt="" coords="779,1031,920,1058"/>
+<area shape="rect" id="node50" href="$group___video_card.html#ga20abad4e7ecd96f41e28a3e9ab9c9449" title=" " alt="" coords="375,575,515,602"/>
+</map>
