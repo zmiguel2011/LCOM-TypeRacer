@@ -2,12 +2,13 @@
 
 LCOM Project for group T04G01.
 
-Group members:
+##Group members:
 
-1. Alexandre Nunes (up202005358@edu.fe.up.pt)
-2. José Miguel Isidro (up202006485@edu.fe.up.pt)
-3. Tomás Torres (up201800700@edu.fe.up.pt)
+- Alexandre Nunes (up202005358@edu.fe.up.pt)
+- José Miguel Isidro (up202006485@edu.fe.up.pt)
+- Tomás Torres (up201800700@edu.fe.up.pt)
 
-Project proposal [here] (https://github.com/zmiguel2011/LCOM-TypeRacer/blob/main/proj/doc/t04g01.pdf)
-Final source code [here](https://github.com/zmiguel2011/LCOM-TypeRacer/tree/main/proj/src)
-Final report [here] (https://github.com/zmiguel2011/LCOM-TypeRacer/blob/main/proj/doc/report.pdf)
+##Links:
+- Project proposal [here](https://github.com/zmiguel2011/LCOM-TypeRacer/blob/main/proj/doc/t04g01.pdf)
+- Final source code [here](https://github.com/zmiguel2011/LCOM-TypeRacer/tree/main/proj/src)
+- Final report [here](https://github.com/zmiguel2011/LCOM-TypeRacer/blob/main/proj/doc/report.pdf)
