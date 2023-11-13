@@ -1,6 +1,6 @@
 # LCOM - TypeRacer
 
-LCOM Project for group T04G01.
+`A TypeRacer like game built on the MINIX OS`
 
 ## Group members:
 
