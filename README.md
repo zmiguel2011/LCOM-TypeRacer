@@ -2,6 +2,8 @@
 
 `A TypeRacer like game built on the MINIX OS`
 
+### Project Grade: 17.1/20
+
 ## Group members:
 
 - Alexandre Nunes (up202005358@edu.fe.up.pt)
